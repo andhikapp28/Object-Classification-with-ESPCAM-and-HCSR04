@@ -9,3 +9,5 @@ Alat ini dirancang untuk kebutuhan tugas besar mata kuliah sistem tertanam kelas
 |119140225|Rayhan Atthala|
 
 ## Lampiran
+Simple 
+[[DEMO]](https://youtu.be/UC5JMzlxtrA)
