@@ -8,8 +8,8 @@ Object Classification with distance sensor was originally made for our team "Emb
 |119140224|Andhika Putra Pratama|
 |119140225|Rayhan Atthala Ghifary|
 
-## System Schematic
-<img src="#" height="300">
+## Diagram Project
+<img src="Asset/Diagram-Project.png" height="500">
 
 ## Item
 ### Hardware
