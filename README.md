@@ -1,5 +1,5 @@
 # SONAR with HC-SR04 and Object Classification with ESP32-CAM
-Object Classification with distance sensor was originally made for our team "Embedded System" final project.
+SONAR with HC-SR04 and Object Classification with ESP32-CAM was originally made for our team "Embedded System" final project.
 
 ### Member
 |||
