@@ -9,7 +9,7 @@ Object Classification with distance sensor was originally made for our team "Emb
 |119140225|Rayhan Atthala Ghifary|
 
 ## Diagram Project
-<img src="Asset/Diagram-Project.png" height="500">
+<img src="Asset/Diagram-Project.png" height="400">
 
 ## Item
 ### Hardware
