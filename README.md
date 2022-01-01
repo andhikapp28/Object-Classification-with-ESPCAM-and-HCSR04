@@ -1,4 +1,4 @@
-# Object Classification with distance from sensor
+# SONAR with HC-SR04 and Object Classification with ESP32-CAM
 Object Classification with distance sensor was originally made for our team "Embedded System" final project.
 
 ### Member
@@ -9,6 +9,8 @@ Object Classification with distance sensor was originally made for our team "Emb
 |119140225|Rayhan Atthala Ghifary|
 
 ## Diagram Project
+### System Architecture
+### Wiring Diagram
 <img src="Asset/Diagram-Project.png" height="400">
 
 ## Item
