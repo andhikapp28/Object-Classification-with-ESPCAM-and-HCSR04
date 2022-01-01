@@ -4,7 +4,7 @@ Object Classification with distance sensor was originally made for our team "Emb
 ### Member
 |||
 |-|-|
-|119140214|Farid Anfasha|
+|119140215|Farid Anfasha|
 |119140224|Andhika Putra Pratama|
 |119140225|Rayhan Atthala Ghifary|
 
