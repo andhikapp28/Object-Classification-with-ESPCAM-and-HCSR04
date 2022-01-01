@@ -25,7 +25,7 @@ Object Classification with distance sensor was originally made for our team "Emb
 ### Addition Item
 1. Jumper
 2. Bracket XY
-3. Whiteboard
+3. Breadboard
 
 ### Software
 1. Arduino IDE
