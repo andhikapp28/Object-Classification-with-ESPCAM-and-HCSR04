@@ -10,6 +10,8 @@ SONAR with HC-SR04 and Object Classification with ESP32-CAM was originally made 
 
 ## Diagram Project
 ### System Architecture
+<img src="Asset/sysarch.png" height="400">
+
 ### Wiring Diagram
 <img src="Asset/Diagram-Project.png" height="400">
 
