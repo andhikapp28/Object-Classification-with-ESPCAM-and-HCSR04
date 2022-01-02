@@ -44,11 +44,12 @@ SONAR with HC-SR04 and Object Classification with ESP32-CAM was originally made 
 6. Open Browser and enter the ESP32-CAM IP Address
 
 ## Demo Video
-https://github.com/andhikapp28/Object-Classification-with-ESPCAM-and-HCSR04/blob/main/Asset/DemoVideo.m4v
+https://user-images.githubusercontent.com/83655819/147863779-475b52b9-1043-4b41-86b9-465c7cab677a.mp4
 
 ## References
 * [ESP32-CAM Streaming Web Server](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide)
 * [ESP32 with HC-SR04 Ultrasonic Sensor ](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino)
 * [How to use Joystick Module](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-joystick-with-serial-monitor-1f04f0)
+* [COCO Dataset](https://cocodataset.org/)
 * [COCO SSD Tensorflow.js Model](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
 * [ESP32-CAM COCO-SSD](https://github.com/fustyles/Arduino/tree/master/ESP32-CAM_Tensorflow.js/ESP32-CAM_coco-ssd)
