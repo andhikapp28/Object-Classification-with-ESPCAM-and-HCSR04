@@ -44,7 +44,7 @@ SONAR with HC-SR04 and Object Classification with ESP32-CAM was originally made 
 6. Open Browser and enter the ESP32-CAM IP Address
 
 ## Demo Video
-LOREM IPSUM
+https://github.com/andhikapp28/Object-Classification-with-ESPCAM-and-HCSR04/blob/main/Asset/DemoVideo.m4v
 
 ## References
 * [ESP32-CAM Streaming Web Server](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide)
