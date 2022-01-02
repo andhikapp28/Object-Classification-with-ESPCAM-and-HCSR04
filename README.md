@@ -1,15 +1,17 @@
-# Object Classification with distance from sensor
-Object Classification with distance sensor was originally made for our team "Embedded System" final project.
+# SONAR with HC-SR04 and Object Classification with ESP32-CAM
+SONAR with HC-SR04 and Object Classification with ESP32-CAM was originally made for our team "Embedded System" final project.
 
 ### Member
 |||
 |-|-|
-|119140214|Farid Anfasha|
+|119140215|Farid Anfasha|
 |119140224|Andhika Putra Pratama|
 |119140225|Rayhan Atthala Ghifary|
 
-## System Schematic
-<img src="#" height="300">
+## Diagram Project
+### System Architecture
+### Wiring Diagram
+<img src="Asset/Diagram-Project.png" height="400">
 
 ## Item
 ### Hardware
@@ -25,7 +27,7 @@ Object Classification with distance sensor was originally made for our team "Emb
 ### Addition Item
 1. Jumper
 2. Bracket XY
-3. Whiteboard
+3. Breadboard
 
 ### Software
 1. Arduino IDE
@@ -45,6 +47,6 @@ LOREM IPSUM
 ## References
 * [ESP32-CAM Streaming Web Server](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide)
 * [ESP32 with HC-SR04 Ultrasonic Sensor ](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino)
-* [Joystick Module](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-joystick-with-serial-monitor-1f04f0)
+* [How to use Joystick Module](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-joystick-with-serial-monitor-1f04f0)
 * [COCO SSD Tensorflow.js Model](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
 * [ESP32-CAM COCO-SSD](https://github.com/fustyles/Arduino/tree/master/ESP32-CAM_Tensorflow.js/ESP32-CAM_coco-ssd)

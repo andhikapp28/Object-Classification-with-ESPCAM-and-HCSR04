@@ -52,13 +52,13 @@ void loop() {
           servo1.write(posDegrees);
           Serial.println(posDegrees);
           ultrasonik();
-          delay(50);
+          delay(250);
         }
         for(int posDegrees = 180; posDegrees >= 0; posDegrees--) {
           servo1.write(posDegrees);
           Serial.println(posDegrees);
           ultrasonik();
-          delay(50);
+          delay(250);
         }
       }else{
         joystick();
@@ -90,6 +90,7 @@ void ultrasonik(){
 }
 
 void joystick(){
+  ultrasonik();
   Serial.println("Penggunaan Joystick");
   servoVal = analogRead(joyX);
   servoVal = map(servoVal, 0, 1023, 0, 180);
@@ -102,5 +103,5 @@ void joystick(){
   Serial.print("Sumbu Y (Atas-Bawah) : ");
   Serial.println(servoVal);
   servo2.write(servoVal);
-  delay(50);  
+  delay(250);  
   }
